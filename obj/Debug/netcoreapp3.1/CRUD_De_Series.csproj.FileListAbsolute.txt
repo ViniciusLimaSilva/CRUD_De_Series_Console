@@ -1,0 +1,13 @@
+C:\Users\vini-\Desktop\exercicios c#\CRUD_De_Series\bin\Debug\netcoreapp3.1\CRUD_De_Series.exe
+C:\Users\vini-\Desktop\exercicios c#\CRUD_De_Series\bin\Debug\netcoreapp3.1\CRUD_De_Series.deps.json
+C:\Users\vini-\Desktop\exercicios c#\CRUD_De_Series\bin\Debug\netcoreapp3.1\CRUD_De_Series.runtimeconfig.json
+C:\Users\vini-\Desktop\exercicios c#\CRUD_De_Series\bin\Debug\netcoreapp3.1\CRUD_De_Series.runtimeconfig.dev.json
+C:\Users\vini-\Desktop\exercicios c#\CRUD_De_Series\bin\Debug\netcoreapp3.1\CRUD_De_Series.dll
+C:\Users\vini-\Desktop\exercicios c#\CRUD_De_Series\bin\Debug\netcoreapp3.1\CRUD_De_Series.pdb
+C:\Users\vini-\Desktop\exercicios c#\CRUD_De_Series\obj\Debug\netcoreapp3.1\CRUD_De_Series.csprojAssemblyReference.cache
+C:\Users\vini-\Desktop\exercicios c#\CRUD_De_Series\obj\Debug\netcoreapp3.1\CRUD_De_Series.AssemblyInfoInputs.cache
+C:\Users\vini-\Desktop\exercicios c#\CRUD_De_Series\obj\Debug\netcoreapp3.1\CRUD_De_Series.AssemblyInfo.cs
+C:\Users\vini-\Desktop\exercicios c#\CRUD_De_Series\obj\Debug\netcoreapp3.1\CRUD_De_Series.csproj.CoreCompileInputs.cache
+C:\Users\vini-\Desktop\exercicios c#\CRUD_De_Series\obj\Debug\netcoreapp3.1\CRUD_De_Series.dll
+C:\Users\vini-\Desktop\exercicios c#\CRUD_De_Series\obj\Debug\netcoreapp3.1\CRUD_De_Series.pdb
+C:\Users\vini-\Desktop\exercicios c#\CRUD_De_Series\obj\Debug\netcoreapp3.1\CRUD_De_Series.genruntimeconfig.cache
